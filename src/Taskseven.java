@@ -6,4 +6,9 @@ public class Taskseven {
             parentmassage = "This is a parent class";
         }
     }
+
+    static class Child extends Parent {
+        string childmassage;
+
+    }
 }
