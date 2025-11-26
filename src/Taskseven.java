@@ -17,4 +17,8 @@ public class Taskseven {
             System.out.println(childmassage);
         }
     }
+
+    public static void main(String[] args) {
+        final String university = "IUEA University";
+    }
 }
