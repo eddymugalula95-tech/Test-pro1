@@ -12,7 +12,7 @@ public class Taskseven {
 
         Child(){
             super();
-            childmassage = "This is a child class";
+            childmassage = "Changing the child name";
             System.out.println(super.parentmassage);
             System.out.println(childmassage);
         }
