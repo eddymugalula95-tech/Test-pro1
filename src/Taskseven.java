@@ -8,7 +8,13 @@ public class Taskseven {
     }
 
     static class Child extends Parent {
-        string childmassage;
+        String childmassage;
 
+        Child(){
+            super();
+            childmassage = "This is a child class";
+            System.out.println(super.parentmassage);
+            System.out.println(childmassage);
+        }
     }
 }
