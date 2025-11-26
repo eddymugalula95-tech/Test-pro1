@@ -21,5 +21,6 @@ public class Taskseven {
     public static void main(String[] args) {
         final String university = "International university of East Africa";
         System.out.println("Welcome to " + university);
+        new Child();
     }
 }
