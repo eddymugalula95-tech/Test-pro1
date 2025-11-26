@@ -20,5 +20,6 @@ public class Taskseven {
 
     public static void main(String[] args) {
         final String university = "IUEA University";
+        System.out.println("Welcome to " + university);
     }
 }
